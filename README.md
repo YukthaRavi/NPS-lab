@@ -1,3 +1,4 @@
 # 5th-Sem
 
-## This repo contains all the codes of 5th sem
+## This repo contains the code for client and server connection
+
